@@ -1,1 +1,1 @@
-# gpt-lake-map
+# case_study
